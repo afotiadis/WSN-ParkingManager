@@ -5,7 +5,7 @@ Wireless Sensor Networks implementation for the WSN Class of 8th Semester at ECE
 
 Design of a parking spot manager, using Arduino for implementing a WSN and Python for data processing and GUI.
 
-Course Professor: [Antonis Dimitriou](https://users.auth.gr/antodimi/)
+Course Professor: [Antonis Dimitriou](https://ece.auth.gr/staff/antonios-dimitriou-2/)
 
 ## Hardware and Software used
 ### Hardware
