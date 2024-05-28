@@ -47,7 +47,7 @@ void loop(){
     servoMotor.write(90); // If first photoresistor dark, open gate
   }
   if (value1 < 25){
-    delay(1500); // Delay before closing
+	delay(1500); // Delay for 1.5 sec before closing
     servoMotor.write(0); // If second photoresistor dark, close gate.
   }
 

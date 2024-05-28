@@ -29,3 +29,6 @@ During the project two videos were created, a Demo video and a Promo Video.
 [Demo: Youtube](https://youtu.be/AhlaWWqUwws)
 
 [Promo: Youtube](https://youtu.be/bNPLmxlcYNs)
+
+## Other files
+Icluded are the Powerpoint presentation ((Link to the editor)[https://www.canva.com/design/DAGF-aWyFTM/96zDfejeTN65GiOIKpCgZw/edit)]) and Techical report
