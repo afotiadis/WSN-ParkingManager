@@ -31,4 +31,6 @@ During the project two videos were created, a Demo video and a Promo Video.
 [Promo: Youtube](https://youtu.be/bNPLmxlcYNs)
 
 ## Other files
-Icluded are the Powerpoint presentation ((Link to the editor)[https://www.canva.com/design/DAGF-aWyFTM/96zDfejeTN65GiOIKpCgZw/edit)]) and Techical report
+Icluded are:
+- [Powerpoint presentation](https://github.com/tsarnadelis/WSN-ParkingManager/blob/main/PARKBETTER_WSN_2024.pptx) (Link to the Canva editor is [here](https://www.canva.com/design/DAGF-aWyFTM/96zDfejeTN65GiOIKpCgZw/edit))
+- [Techical report](https://github.com/tsarnadelis/WSN-ParkingManager/blob/main/Parking_Report_WSN.pdf)
