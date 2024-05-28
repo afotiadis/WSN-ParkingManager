@@ -1,5 +1,11 @@
 # WSN ParkingManager - Parkbetter
 
+<p align=center>
+ <img src=https://cdn.icon-icons.com/icons2/2699/PNG/512/arduino_logo_icon_170518.png width=15% height=auto ></img>
+ &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+ <img src=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png width=12% height=auto ></img>
+</p>
+
 ## Project Description
 Wireless Sensor Networks implementation for the WSN Class of 8th Semester at ECE, AUTH. 
 
