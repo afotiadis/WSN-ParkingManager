@@ -37,6 +37,8 @@ During the project two videos were created, a Demo video and a Promo Video.
 [Promo: Youtube](https://youtu.be/bNPLmxlcYNs)
 
 ## Other files
-Icluded are:
+Included are:
 - [Powerpoint presentation](https://github.com/tsarnadelis/WSN-ParkingManager/blob/main/PARKBETTER_WSN_2024.pptx) (Link to the Canva editor is [here](https://www.canva.com/design/DAGF-aWyFTM/96zDfejeTN65GiOIKpCgZw/edit))
 - [Techical report](https://github.com/tsarnadelis/WSN-ParkingManager/blob/main/Parking_Report_WSN.pdf)
+
+- This repo is forked from [Thanasis Tsarnadelis'](https://github.com/tsarnadelis) profile since we worked together on this project.
